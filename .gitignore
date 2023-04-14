@@ -1,18 +1,11 @@
-# System Files
+.vscode
+.module-cache
 .DS_Store
-
-# IDEs and editors
-.idea
-
-# dependencies
-node_modules
 jspm_packages/
-*.lock
-
-# misc
+.idea
 *.swp
 *.log
 atlassian-ide-plugin.xml
 .eslintcache
-.module-cache
-.parcel-cache
+node_modules/
+*.lock
